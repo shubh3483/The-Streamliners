@@ -1,6 +1,6 @@
-package Controller;
+package Task1.Controller;
 
-import model.Product;
+import Task1.model.Product;
 
 public class SpecialProduct extends Product {
     public int regularPrice;
